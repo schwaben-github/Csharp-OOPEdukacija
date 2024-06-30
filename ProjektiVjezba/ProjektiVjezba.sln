@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProizvodApp", "ProizvodApp\ProizvodApp.csproj", "{0EF83F95-FD8A-4E42-A320-DD4B83AD77FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomobilApp", "AutomobilApp\AutomobilApp.csproj", "{874CC941-42A3-43D9-8B42-7D2A30D8435D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZaposlenikApp", "ZaposlenikApp\ZaposlenikApp.csproj", "{A7669333-5700-4E93-A609-BF032F7BC59A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GDPR", "GDPR\GDPR.csproj", "{F97EA4F9-5123-4669-AC41-783DF4CDC737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulatorApp", "KalkulatorApp\KalkulatorApp.csproj", "{35660E17-F850-45B5-96BA-8A098EF6C23D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticsInstancom", "StaticsInstancom\StaticsInstancom.csproj", "{1604DB37-9FDF-474E-9239-85924E112FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF83F95-FD8A-4E42-A320-DD4B83AD77FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF83F95-FD8A-4E42-A320-DD4B83AD77FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF83F95-FD8A-4E42-A320-DD4B83AD77FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF83F95-FD8A-4E42-A320-DD4B83AD77FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874CC941-42A3-43D9-8B42-7D2A30D8435D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874CC941-42A3-43D9-8B42-7D2A30D8435D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874CC941-42A3-43D9-8B42-7D2A30D8435D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874CC941-42A3-43D9-8B42-7D2A30D8435D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7669333-5700-4E93-A609-BF032F7BC59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7669333-5700-4E93-A609-BF032F7BC59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7669333-5700-4E93-A609-BF032F7BC59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7669333-5700-4E93-A609-BF032F7BC59A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97EA4F9-5123-4669-AC41-783DF4CDC737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97EA4F9-5123-4669-AC41-783DF4CDC737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97EA4F9-5123-4669-AC41-783DF4CDC737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97EA4F9-5123-4669-AC41-783DF4CDC737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35660E17-F850-45B5-96BA-8A098EF6C23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35660E17-F850-45B5-96BA-8A098EF6C23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35660E17-F850-45B5-96BA-8A098EF6C23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35660E17-F850-45B5-96BA-8A098EF6C23D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1604DB37-9FDF-474E-9239-85924E112FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1604DB37-9FDF-474E-9239-85924E112FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1604DB37-9FDF-474E-9239-85924E112FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1604DB37-9FDF-474E-9239-85924E112FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ED6F74D-2372-4118-A65F-F4C407CE5032}
+	EndGlobalSection
+EndGlobal

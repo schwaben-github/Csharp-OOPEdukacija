@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadatak1", "Zadatak1\Zadatak1.csproj", "{AFFCE731-C350-42FB-87B6-CCBC56FBCFC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadatak2", "Zadatak2\Zadatak2.csproj", "{0E24D18A-0A5F-4AFE-938B-739C53CB6269}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadatak3", "Zadatak3\Zadatak3.csproj", "{547BCF18-27EF-4ADC-AEAB-33091B68FE8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFFCE731-C350-42FB-87B6-CCBC56FBCFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFCE731-C350-42FB-87B6-CCBC56FBCFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFCE731-C350-42FB-87B6-CCBC56FBCFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFCE731-C350-42FB-87B6-CCBC56FBCFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E24D18A-0A5F-4AFE-938B-739C53CB6269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E24D18A-0A5F-4AFE-938B-739C53CB6269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E24D18A-0A5F-4AFE-938B-739C53CB6269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E24D18A-0A5F-4AFE-938B-739C53CB6269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547BCF18-27EF-4ADC-AEAB-33091B68FE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547BCF18-27EF-4ADC-AEAB-33091B68FE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547BCF18-27EF-4ADC-AEAB-33091B68FE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547BCF18-27EF-4ADC-AEAB-33091B68FE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEF10E61-EA31-4A0A-96C1-7D20E90A6869}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimjerMetoda", "PrimjerMetoda\PrimjerMetoda.csproj", "{08621B54-1D81-4320-984B-D01810242F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pitagora", "Pitagora\Pitagora.csproj", "{61F5EE3A-3703-46D6-83C9-92754711D4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krug", "Krug\Krug.csproj", "{E8F95D28-D7ED-46D8-A218-8EBA167F44E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSuKW", "KSuKW\KSuKW.csproj", "{9F77F269-0FC9-4641-B045-1161EAC9CDF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom", "Palindrom\Palindrom.csproj", "{B8D55E83-8DEF-48C9-ACE1-FE3A79C0B53D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zbroj", "Zbroj\Zbroj.csproj", "{29E5BC92-0049-40D5-9C46-921210411968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JednakokracanTrokut", "JednakokracanTrokut\JednakokracanTrokut.csproj", "{512A6439-04CA-48FB-A319-FB6E7605A9C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08621B54-1D81-4320-984B-D01810242F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08621B54-1D81-4320-984B-D01810242F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08621B54-1D81-4320-984B-D01810242F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08621B54-1D81-4320-984B-D01810242F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F5EE3A-3703-46D6-83C9-92754711D4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F5EE3A-3703-46D6-83C9-92754711D4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F5EE3A-3703-46D6-83C9-92754711D4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F5EE3A-3703-46D6-83C9-92754711D4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F95D28-D7ED-46D8-A218-8EBA167F44E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F95D28-D7ED-46D8-A218-8EBA167F44E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F95D28-D7ED-46D8-A218-8EBA167F44E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F95D28-D7ED-46D8-A218-8EBA167F44E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F77F269-0FC9-4641-B045-1161EAC9CDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F77F269-0FC9-4641-B045-1161EAC9CDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F77F269-0FC9-4641-B045-1161EAC9CDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F77F269-0FC9-4641-B045-1161EAC9CDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D55E83-8DEF-48C9-ACE1-FE3A79C0B53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D55E83-8DEF-48C9-ACE1-FE3A79C0B53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D55E83-8DEF-48C9-ACE1-FE3A79C0B53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D55E83-8DEF-48C9-ACE1-FE3A79C0B53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E5BC92-0049-40D5-9C46-921210411968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E5BC92-0049-40D5-9C46-921210411968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E5BC92-0049-40D5-9C46-921210411968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E5BC92-0049-40D5-9C46-921210411968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512A6439-04CA-48FB-A319-FB6E7605A9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512A6439-04CA-48FB-A319-FB6E7605A9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512A6439-04CA-48FB-A319-FB6E7605A9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512A6439-04CA-48FB-A319-FB6E7605A9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27D68831-B568-4FE5-85C9-98C9479587F0}
+	EndGlobalSection
+EndGlobal
